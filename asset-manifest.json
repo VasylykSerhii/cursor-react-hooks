@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursor-react-hooks/static/css/main.2abd63fe.chunk.css",
+    "main.js": "/cursor-react-hooks/static/js/main.bf0b6dbe.chunk.js",
+    "main.js.map": "/cursor-react-hooks/static/js/main.bf0b6dbe.chunk.js.map",
+    "runtime-main.js": "/cursor-react-hooks/static/js/runtime-main.9338570b.js",
+    "runtime-main.js.map": "/cursor-react-hooks/static/js/runtime-main.9338570b.js.map",
+    "static/js/2.f7dc45db.chunk.js": "/cursor-react-hooks/static/js/2.f7dc45db.chunk.js",
+    "static/js/2.f7dc45db.chunk.js.map": "/cursor-react-hooks/static/js/2.f7dc45db.chunk.js.map",
+    "index.html": "/cursor-react-hooks/index.html",
+    "precache-manifest.dd62ea6318e10e19c2defab6b6db5e4c.js": "/cursor-react-hooks/precache-manifest.dd62ea6318e10e19c2defab6b6db5e4c.js",
+    "service-worker.js": "/cursor-react-hooks/service-worker.js",
+    "static/css/main.2abd63fe.chunk.css.map": "/cursor-react-hooks/static/css/main.2abd63fe.chunk.css.map",
+    "static/js/2.f7dc45db.chunk.js.LICENSE.txt": "/cursor-react-hooks/static/js/2.f7dc45db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9338570b.js",
+    "static/js/2.f7dc45db.chunk.js",
+    "static/css/main.2abd63fe.chunk.css",
+    "static/js/main.bf0b6dbe.chunk.js"
+  ]
+}
